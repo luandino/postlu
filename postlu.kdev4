@@ -1,0 +1,4 @@
+[Project]
+Name=postlu
+Manager=KDevCustomMakeManager
+VersionControl=kdevgit
